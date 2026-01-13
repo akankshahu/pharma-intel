@@ -1,4 +1,4 @@
-# Pharma-Intellect: AI-Powered Drug Discovery Research Assistant
+# Pharma-Intel: AI-Powered Drug Discovery Research Assistant
 
 An intelligent, AI-driven research assistant designed to accelerate pharmaceutical R&D by providing evidence-backed answers to complex biomedical questions. Built with Retrieval-Augmented Generation (RAG), this project leverages Large Language Models to synthesize information from PubMed and ClinicalTrials.gov, helping researchers identify drug targets, discover repurposing opportunities, and streamline literature reviews.
 
@@ -28,7 +28,7 @@ An intelligent, AI-driven research assistant designed to accelerate pharmaceutic
 
 ### Vision
 
-Pharma-Intellect solves a critical bottleneck in pharmaceutical research: the overwhelming volume of scientific literature and clinical trial data. Instead of manually reviewing thousands of documents, researchers can ask complex questions and receive synthesized, citation-backed answers in seconds.
+Pharma-Intel solves a critical bottleneck in pharmaceutical research: the overwhelming volume of scientific literature and clinical trial data. Instead of manually reviewing thousands of documents, researchers can ask complex questions and receive synthesized, citation-backed answers in seconds.
 
 ### Why This Matters
 
@@ -111,7 +111,7 @@ User Query
 ## Project Structure
 
 ```
-pharma_intellect_project/
+pharma_intel_project/
 |-- README.md                              (This file)
 |-- requirements.txt                       (Python dependencies)
 |-- .gitignore                             (Git ignore rules)
@@ -156,8 +156,8 @@ pharma_intellect_project/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/Sharmaharshitnone/Pharma-Intellect.git
-cd pharma_intellect_project
+git clone https://github.com/akankshahu/Pharma-Intel.git
+cd pharma_intel_project
 ```
 
 ### Step 2: Create Virtual Environment
