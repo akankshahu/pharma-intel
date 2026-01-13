@@ -1,0 +1,7 @@
+requests
+pandas
+sentence-transformers
+llama-index
+streamlit
+biopython
+chromadb
